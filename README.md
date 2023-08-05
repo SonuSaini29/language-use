@@ -1,2 +1,2 @@
-# language-use
+# language
 change your website language
